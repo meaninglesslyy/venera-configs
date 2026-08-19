@@ -208,5 +208,12 @@
         "key": "mangaforfree",
         "version": "0.6.3",
         "description": "mangaforfree.net 漫画源"
+    },
+	{
+        "name": "4KHD",
+        "fileName": "4khd.js",
+        "key": "fourkhd",
+        "version": "1.4.3",
+        "description": "4khd.com 图包源"
     }
 ]
